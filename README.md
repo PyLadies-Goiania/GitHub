@@ -2,7 +2,7 @@
 <img src= "https://user-images.githubusercontent.com/53278878/71999188-b88f5e80-321f-11ea-937d-123ba0adfa13.gif" height="90">
 
 ## O que é esse tal de Git e GitHub?
-**Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
+**Git** é um sistema de controle de versão de códigos e arquivos. Através dele podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente em um projeto, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
 
 E o **GitHub** é um serviço web onde é possível trabalhar em equipe e compartilhar códigos. O github oferece diversas funcionalidades extras aplicadas ao git. Foi responsável pelo crescimento do open source. 
 
